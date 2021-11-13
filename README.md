@@ -2,7 +2,7 @@
 Foxy is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys
 
 <div align="center">
-  <img border-radius: 15px src=[![image](https://www.linkpicture.com/q/Foxy.jpg)](https://www.linkpicture.com/view.php?img=LPic618fcd1cae5e61402251227)>
+  <img border-radius: 15px src=[![image](https://www.linkpicture.com/q/Foxy.jpg)](https://www.linkpicture.com/q/Foxy.jpg)>
   <p align="center">
 <a href="#"><img title="Foxy" src="https://img.shields.io/badge/Foxy-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -71,8 +71,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LjchFlb1WJ56gVeA63bcLw)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranskumar&repo=Foxy&theme=nightowl)](https://github.com/saranskumar/Foxy)
-  </div>
+  
     
 ### ⚠️ Warning! 
 ```
