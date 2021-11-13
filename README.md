@@ -41,7 +41,7 @@ $ git clone https://github.com/saranskumar/Foxy
 $ cd Foxy
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node Foxy.js
 ```
       
 ```js
@@ -49,7 +49,7 @@ SETUP
 $ git clone https://github.com/saranskumar/Foxy
 $ cd Foxy
 $ npm i
-$ node julie.js
+$ node Foxy.js
 ```
 
 ----
