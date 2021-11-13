@@ -12,7 +12,7 @@ const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./julie/');
+const {Message, StringSession, Image, Video} = require('./foxy/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const axios = require('axios');
@@ -391,7 +391,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~🦊𝙁𝙤𝙓𝙮🦊~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report errors\njoin with +91 \nchat.whatsapp.com/Gthpm3ob1y16Oh5qv0xSSr``` ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report errors\njoin with +91 \nchat.whatsapp.com/LorcNk7XucLIrUcBEvDlIn``` ' 
                                     , MessageType.text);
                             }
                         }
