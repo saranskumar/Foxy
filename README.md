@@ -3,7 +3,7 @@ Foxy is the Modified Version of WhatsAsena, Made By @saranskumar with Baileys
 
 <div align="center">
   <div align="center">
-  <img src=https://www.linkpicture.com/q/Foxy.jpeg>
+  <img src=https://www.linkpicture.com/q/Foxy.jpg>
 
 
   <p align="center">
