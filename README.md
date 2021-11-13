@@ -2,7 +2,7 @@
 Foxy is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/Foxy.jpg>
+  <img border-radius: 15px src=[![image](https://www.linkpicture.com/q/Foxy.jpg)](https://www.linkpicture.com/view.php?img=LPic618fcd1cae5e61402251227)>
   <p align="center">
 <a href="#"><img title="Foxy" src="https://img.shields.io/badge/Foxy-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
