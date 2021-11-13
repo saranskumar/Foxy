@@ -1,9 +1,9 @@
 # Foxy
-Foxy is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys
+Foxy is the Modified Version of WhatsAsena, Made By @saranskumar with Baileys
 
 <div align="center">
   <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img src=https://www.linkpicture.com/q/Foxy.jpeg>
 
 
   <p align="center">
