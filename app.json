@@ -32,7 +32,7 @@
             "value": "true"
         },
         "TALKING_PINKY": {
-            "description": " Turn your account into a chatbot!",
+            "description": " Turn your Foxy account into a chatbot!",
             "required": true,
             "value": "false"
         },
@@ -146,7 +146,8 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```*🦊FoXy🦊*"
+
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
